@@ -1,4 +1,4 @@
-<?/
+<?
     if($_POST){
         if(isset($_POST['dn'])){
             $dn = (int)$_POST['dn'];
